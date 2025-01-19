@@ -56,3 +56,6 @@ Worst-case number: 3
 - Improved understanding of searching algorithms and their use cases.
 - Gained experience in writing clean and efficient code.
 - Practiced analyzing and explaining time complexity.
+
+- You can view the project and details about its implementation on my
+- https://www.linkedin.com/posts/always-be-smiling-968427282_github-syedfaizanhussainshahshamsilinear-binary-search-activity-7286659129169866752-Vcgf?utm_source=share&utm_medium=member_desktop
